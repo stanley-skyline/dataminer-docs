@@ -25,6 +25,8 @@ To change your email address for your dataminer.services account — whether due
 
 ### Admin app
 
+If you had access to dataminer.services features with your previous account, your new account will also need access. See [manage dataminer.services users](xref:Managing_dataminer_services_users).
+
 > [!TIP]
 > - Direct link: [admin.dataminer.services](https://admin.dataminer.services/)
 > - For more info, refer to [About the Admin app](xref:About_the_Admin_app).
