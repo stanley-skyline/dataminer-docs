@@ -5,7 +5,7 @@ keywords: cloud email, cloud account
 
 # Changing the email address associated with your dataminer.services account
 
-If you already have a dataminer.services account, but you want to start using a different email address, you will need to re-register by creating a new dataminer.services account and then have us transfer your existing data on DataMiner Dojo.
+If you already have a dataminer.services account, but you want to start using a different email address, you will need to re-register by creating a new dataminer.services account. and then have us transfer your existing data on DataMiner Dojo.
 
 > [!IMPORTANT]
 > If you change the email address associated with your account, any progress you have made on courses and quizzes in the [Learning module](https://community.dataminer.services/learning/) will be lost, so you will need to start over in this module. Also, any comments you have made in the [Questions module](https://community.dataminer.services/questions/) will still be displayed as posted with your old account.
