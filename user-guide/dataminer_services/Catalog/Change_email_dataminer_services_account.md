@@ -5,18 +5,47 @@ keywords: cloud email, cloud account
 
 # Changing the email address associated with your dataminer.services account
 
-If you already have a dataminer.services account, but you want to start using a different email address, you will need to re-register by creating a new dataminer.services account. and then have us transfer your existing data on DataMiner Dojo.
+To change your email address for your dataminer.services account — whether due to preference, email domain change, or any other reason — you will need to re-register by creating a new dataminer.services account.
 
-> [!IMPORTANT]
-> If you change the email address associated with your account, any progress you have made on courses and quizzes in the [Learning module](https://community.dataminer.services/learning/) will be lost, so you will need to start over in this module. Also, any comments you have made in the [Questions module](https://community.dataminer.services/questions/) will still be displayed as posted with your old account.
+## Re-register
 
 1. Go to [dataminer.services](https://dataminer.services/).
 
 1. Make sure you are logged out by clicking the user icon in the top-right corner and selecting *Sign out*.
 
-1. Sign in as if you were a new user, using the new email address. See [Logging on](xref:Logging_on_to_dataminer_services#logging-on).
+1. Create a new dataminer.services account (make sure to use the new email address), by following the instructions [Logging on to dataminer.services](xref:Logging_on_to_dataminer_services#logging-on).
 
-   This will create a new account linked to the new email address.
+> [!IMPORTANT]
+> Since this new account is not linked to your previous one, you need to consider a few things to maintain your current access to data and services, see [below](#preserve-your-previous-access-and-data).
+
+## Maintaining access to data and services linked to your old account
+
+> [!NOTE]
+> The instructions below are listed by service. They may not all apply to you depending on what you are using.
+
+### Admin app
+
+> [!TIP]
+> - Direct link: [admin.dataminer.services](https://admin.dataminer.services/)
+> - For more info, refer to [About the Admin app](xref:About_the_Admin_app).
+
+### Collaboration app
+
+> [!TIP]
+> - Direct link: [collaboration.dataminer.services](https://collaboration.dataminer.services/)
+> - For more info, refer to [About the Collaboration app](xref:About_the_Collaboration_app).
+
+### DataMiner Community (Dojo)
+
+> [!TIP]
+> - Direct link: [community.dataminer.services](https://community.dataminer.services/)
+> - For more info, refer to [DataMiner Community](xref:Community).
+
+> [!IMPORTANT]
+> If you change the email address associated with your account, any progress you have made on courses and quizzes in the [Learning module](https://community.dataminer.services/learning/) will be lost, so you will need to start over in this module. Also, any comments you have made in the [Questions module](https://community.dataminer.services/questions/) will still be displayed as posted with your old account.
+
+
+ and then have us transfer your existing data on DataMiner Dojo.
 
 1. Visit [community.dataminer.services](https://community.dataminer.services/) with the new account.
 
