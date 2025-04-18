@@ -33,8 +33,8 @@ If your dataminer.services account was previously given access to dataminer.serv
 **How?** See `[Managing dataminer.services users](xref:Managing_dataminer_services_users)`.
 
 > [!TIP]
-> - Direct link to Admin app: [admin.dataminer.services](https://admin.dataminer.services/)
 > - For more info about the Admin app, refer to `[About the Admin app](xref:About_the_Admin_app)`.
+> - Direct link to Admin app: [admin.dataminer.services](https://admin.dataminer.services/)
 
 ### DataMiner account linkage
 If your dataminer.services account was previously linked to your DataMiner account, you need to do the same with your new dataminer.services account.
@@ -51,8 +51,8 @@ To maintain access to your projects and tasks via the Collaboration app, your ne
 **How?** After you logged into [collaboration.dataminer.services](https://collaboration.dataminer.services/) with your new account, please contact [back.office@skyline.be](mailto:back.office@skyline.be) to request to link your new account to your organization. 
 
 > [!TIP]
+> - For more info about the Collaboration app, refer to `[About the Collaboration app](xref:About_the_Collaboration_app)`.
 > - Direct link to Collaboration app: [collaboration.dataminer.services](https://collaboration.dataminer.services/)
-> - For more info, refer to `[About the Collaboration app](xref:About_the_Collaboration_app)`.
 > - See also: `[Logging on to dataminer.services > Logging on](xref:Logging_on_to_dataminer_services#logging-on)`
 
 ### Data on DataMiner Community (Dojo)
@@ -70,6 +70,5 @@ Upon logging into Dojo with your new account, you will notice that a new account
 **How?** After you logged into [community.dataminer.services](https://community.dataminer.services/) with your new account, please contact [back.office@skyline.be](mailto:back.office@skyline.be?subject=Request%20to%20transfer%20my%20DataMiner%20Dojo%20data&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20transfer%20my%20DataMiner%20Dojo%20data.%0D%0AThe%20accounts%20involved%20are%20listed%20below%3A%0D%0A%0D%0AFrom%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A%0D%0ATo%20(new%20account)%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A) to request to transfer your existing data. You will need to confirm before the transfer due to the aforementioned limitations.
 
 > [!TIP]
+> - For more info about DataMiner Community, refer to `[DataMiner Community](xref:Community)`.
 > - Direct link: [community.dataminer.services](https://community.dataminer.services/)
-> - For more info, refer to `[DataMiner Community](xref:Community)`.
-
