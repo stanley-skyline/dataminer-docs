@@ -19,42 +19,55 @@ To change your email address for your dataminer.services account — whether due
 1. Create a new dataminer.services account (make sure to use the new email address), by following the instructions `[Logging on to dataminer.services](xref:Logging_on_to_dataminer_services#logging-on)`.
 
 > [!IMPORTANT]
-> Since this new account is not linked to the previous one, you need to consider a few things to maintain your current access to data and services, see `[below](#preserve-your-previous-access-and-data)`.
+> Since this new account is not linked to the previous one, please consider the instructions below to ensure continued access to services and data.
 
-## Maintaining access to services and data linked to your old account
+## Ensuring continued access to services and data
 
 > [!NOTE]
-> The instructions below are listed by app/service. They may not all apply to you depending on what you are using.
+> The instructions below are organized by service/feature. Please note that not all instructions may be applicable to your specific usage.
 
-### Admin app
+### Access to dataminer.services features
 
- - If you had access to **dataminer.services features** for an organization with your previous account, then you need to do set this up for the new account as well. See `[Managing dataminer.services users](xref:Managing_dataminer_services_users)`.
- - If your **DataMiner account was linked** to your dataminer.services account, you have te re-link it. See `[Linking your DataMiner account to your dataminer.services account](xref:Linking_your_DataMiner_and_dataminer_services_account)`.
+If your dataminer.services account was previously given access to dataminer.services features for an organization via the **Admin app**, this will need to be done again for the new dataminer.services account.
 
-> [!TIP]
-> - Direct link: [admin.dataminer.services](https://admin.dataminer.services/)
-> - For more info, refer to `[About the Admin app](xref:About_the_Admin_app)`.
-
-### Collaboration app
-
-To maintain **access to projects/tasks**, your new dataminer.services account will need to be linked to your organization (note that this can only be done by Skyline staff on request). See `[Logging on to dataminer.services > Logging on](xref:Logging_on_to_dataminer_services#logging-on)`.
+**How?** See `[Managing dataminer.services users](xref:Managing_dataminer_services_users)`.
 
 > [!TIP]
-> - Direct link: [collaboration.dataminer.services](https://collaboration.dataminer.services/)
+> - Direct link to Admin app: [admin.dataminer.services](https://admin.dataminer.services/)
+> - For more info about the Admin app, refer to `[About the Admin app](xref:About_the_Admin_app)`.
+
+### DataMiner account linkage
+If your dataminer.services account was previously linked to your DataMiner account, you need to do the same with your new dataminer.services account.
+
+**How?** See `[Linking your DataMiner account to your dataminer.services account](xref:Linking_your_DataMiner_and_dataminer_services_account)`.
+
+### Access to projects via Collaboration App
+
+To maintain access to your projects and tasks via the Collaboration app, your new dataminer.services account will need to be linked to your organization.
+
+> [!NOTE]
+> Please note that this action can only be performed by Skyline staff upon request.
+
+**How?** After you logged into [collaboration.dataminer.services](https://collaboration.dataminer.services/) with your new account, please contact [back.office@skyline.be](mailto:back.office@skyline.be) to request to link your new account to your organization. 
+
+> [!TIP]
+> - Direct link to Collaboration app: [collaboration.dataminer.services](https://collaboration.dataminer.services/)
 > - For more info, refer to `[About the Collaboration app](xref:About_the_Collaboration_app)`.
+> - See also: `[Logging on to dataminer.services > Logging on](xref:Logging_on_to_dataminer_services#logging-on)`
 
-### DataMiner Community (Dojo)
+### Data on DataMiner Community (Dojo)
 
-If you previously had a Dojo account, and want to keep your existing data (associated with the previous dataminer.services account), you can request to transfer the data.
+Upon logging into Dojo with your new account, you will notice that a new account has been created. You may request to transfer data from your previous account to the new one at any time. If you opt for the transfer, your old account will be deleted.
+
+> [!NOTE]
+> Please note that this action can only be performed by Skyline staff upon request.
 
 > [!IMPORTANT]
 > Some limitations apply to what kind of data can be transferred:
 >  - Any progress you have made on courses and quizzes in the [Learning module](https://community.dataminer.services/learning/) is non-transferable and will be lost, so you will need to start over in this module.
->  - Any comments you have made in the [Questions module](https://community.dataminer.services/questions/) will still be displayed as posted with your previous account.
+>  - Any comments you have made in the [Questions module](https://community.dataminer.services/questions/) will still be displayed as posted with your former account.
 
-1. After you have visited [community.dataminer.services](https://community.dataminer.services/) with the new account, please contact [back.office@skyline.be](mailto:back.office@skyline.be?subject=Request%20to%20transfer%20my%20DataMiner%20Dojo%20data&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20transfer%20my%20DataMiner%20Dojo%20data.%0D%0AThe%20accounts%20involved%20are%20listed%20below%3A%0D%0A%0D%0AFrom%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A%0D%0ATo%20(new%20account)%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A) to request to transfer your existing data. (You will be asked for confirmation before the data are transferred because of the aforementioned limitations.
-
-
+**How?** After you logged into [community.dataminer.services](https://community.dataminer.services/) with your new account, please contact [back.office@skyline.be](mailto:back.office@skyline.be?subject=Request%20to%20transfer%20my%20DataMiner%20Dojo%20data&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20transfer%20my%20DataMiner%20Dojo%20data.%0D%0AThe%20accounts%20involved%20are%20listed%20below%3A%0D%0A%0D%0AFrom%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A%0D%0ATo%20(new%20account)%3A%0D%0A%3Cfill%20in%20email%20address%3E%0D%0A) to request to transfer your existing data. You will need to confirm before the transfer due to the aforementioned limitations.
 
 > [!TIP]
 > - Direct link: [community.dataminer.services](https://community.dataminer.services/)
