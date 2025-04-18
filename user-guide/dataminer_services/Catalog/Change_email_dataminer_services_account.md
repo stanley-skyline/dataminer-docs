@@ -19,7 +19,7 @@ To change your email address for your dataminer.services account — whether due
 1. Create a new dataminer.services account (make sure to use the new email address), by following the instructions `[Logging on to dataminer.services](xref:Logging_on_to_dataminer_services#logging-on)`.
 
 > [!IMPORTANT]
-> Since this new account is not linked to the previous one, please consider the instructions below to ensure continued access to services and data.
+> Since this new account is not linked to the former one, please consider the instructions below to ensure continued access to services and data.
 
 ## Ensuring continued access to services and data
 
@@ -57,7 +57,7 @@ To maintain access to your projects and tasks via the Collaboration app, your ne
 
 ### Data on DataMiner Community (Dojo)
 
-Upon logging into Dojo with your new account, you will notice that a new account has been created. You may request to transfer data from your previous account to the new one at any time. If you opt for the transfer, your old account will be deleted.
+Upon logging into Dojo with your new account, you will notice that a new account has been created. You may request to transfer data from your former account to the new one at any time. If you opt for the transfer, your old account will be deleted.
 
 > [!NOTE]
 > Please note that this action can only be performed by Skyline staff upon request.
